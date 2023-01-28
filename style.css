@@ -1,0 +1,23 @@
+@charset "UTF-8"
+
+.body{
+    width: 100%;
+}
+
+#home{
+    background: #ffc107;
+    color: white;
+}
+
+.btn{
+    transition: color 0.25s, background-color 0.25s;
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid rgb(190, 190, 190);
+}
+
+footer p a{
+    margin: 5px 15px;
+}
